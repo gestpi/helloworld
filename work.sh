@@ -3,4 +3,4 @@
 set -x
 set -u
 
-echo 'I work harder'
+echo 'I work harder, even harder'
